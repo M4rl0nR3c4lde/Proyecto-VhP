@@ -9,8 +9,7 @@ Anexo se encuentran todos los artículos científicos revisados hasta el momento
 
 **Tabla de contenidos** 
 
-- [Descripción Avances](#descripción-avances)
-- [Installation](#install)
-- [The Team](#the-team)
-- [Contributing](#contributing)
-- [Get in touch](#get-in-touch)
+- [Descripción-avances](#descripción-avances)
+- [Debate](#debate)
+- [Conclusiones](#conclusiones)
+- [Anexos](#anexos)
