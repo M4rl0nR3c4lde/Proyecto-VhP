@@ -4,6 +4,7 @@ Los problemas o discrepancias serán debidamente discutidas después de la revis
 Las conclusiones de acuerdo con las etapas de avance del proyecto serán colocadas en un documento en Word o presentación en Power Point dependiendo del caso
 Anexo se encuentran todos los artículos científicos revisados hasta el momento
 
+
 **Tabla de contenidos** 
 
 - [About the project](#descripción-avances)
