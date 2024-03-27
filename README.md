@@ -6,7 +6,7 @@
 -[Problemas o discrepancias (bibliografía revisada):]
 -[Áreas para investigación-debate-acción:]
 -[Conclusiones:]
-- [About the project](#about-the-project)
+- [About the project](#descripción-avances)
 - [Installation](#install)
 - [The Team](#the-team)
 - [Contributing](#contributing)
