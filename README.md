@@ -9,7 +9,7 @@ Anexo se encuentran todos los artículos científicos revisados hasta el momento
 
 **Tabla de contenidos** 
 
-- [About the project](#descripción-avances)
+- [Descripción Avances](#descripción-avances)
 - [Installation](#install)
 - [The Team](#the-team)
 - [Contributing](#contributing)
