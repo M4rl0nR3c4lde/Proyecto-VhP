@@ -13,3 +13,19 @@ Anexo se encuentran todos los artículos científicos revisados hasta el momento
 - [Debate](#debate)
 - [Conclusiones](#conclusiones)
 - [Anexos](#anexos)
+
+## Descripción-avances
+Las características principales de las nanoestructuras candidatas se encuentran enumeradas a continuación
+
+* **Tabla 1. Péptidos representativos:**
+* **Tabla comparativa de metodología de síntesis de nanopartículas polímericas para la entrega de ADN y ARN:**
+* **Anexo Tabla 1:**
+* **Resumen:"Aplicación de estrategias de terapia dirigida con administración de nanomedicinas para la aterosclerosis"**
+* **Resumen Patente:**
+
+## Debate
+
+## Conclusiones
+
+## Anexos
+
